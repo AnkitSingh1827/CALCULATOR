@@ -3,6 +3,7 @@
 A modern, responsive glassmorphism calculator built with pure HTML, CSS, and JavaScript. No frameworks, no dependencies.
 
 ---
+<img width="1906" height="845" alt="image" src="https://github.com/user-attachments/assets/aab0172e-b30f-422e-9faa-fadd918cb7f8" />
 
 ## 🚀 How to Run
 
